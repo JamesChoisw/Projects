@@ -1,6 +1,6 @@
 # Data Science Projects
 
-Welcome to my repository of projects completed as part of the Springboard Data Science Bootcamp. These projects cover various data science concepts, tools, and techniques, showcasing my practical experience in data analysis, machine learning, and data visualization.
+Welcome to my repository of projects. These projects cover various data science concepts, tools, and techniques, showcasing my practical experience in data analysis, machine learning, and data visualization.
 
 ## Projects Overview
 
