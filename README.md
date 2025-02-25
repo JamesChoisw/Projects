@@ -27,7 +27,7 @@ Each subfolder contains detailed notebooks and scripts demonstrating the applica
 
 ## Key Tools and Technologies
 - **Programming Languages**: Python
-- **Libraries**: pandas, numpy, scikit-learn, matplotlib, statsmodels, seaborn, matplotlib
+- **Libraries**: pandas, numpy, scikit-learn, statsmodels, seaborn, matplotlib
 - **Techniques**: Machine learning, feature engineering, imbalanced data handling, clustering analysis, NLP.
 - **Visualization**: matplotlib, seaborn
 
